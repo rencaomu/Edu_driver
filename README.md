@@ -15,7 +15,7 @@ springCloudAlibaba搭建微服务在线教育平台
 IDEA，Visual Studio Code，JDK >= 1.8 (推荐1.8版本)， Mysql >= 5.7， Maven
 
 运行系统
-1、前往GitHub下载页面(https://github.com/wenMN1994/GrainOnlineEducation_Parent.git)下载解压到工作目录。 建议使用Git克隆，因为克隆的方式可以和作者随时保持更新同步。使用Git命令克隆 git clone https://github.com/wenMN1994/GrainOnlineEducation_Parent.git
+1、前往GitHub下载页面(https://github.com/rencaomu/Edu_driver.git)下载解压到工作目录。 建议使用Git克隆，因为克隆的方式可以和作者随时保持更新同步。使用Git命令克隆 git clone https://github.com/rencaomu/Edu_driver.git
 
 2、导入到IDEA，IDEA会自动加载Maven 依赖包，初次加载会比较慢（根据自身网络情况而定）
 
